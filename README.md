@@ -43,6 +43,6 @@
 | --- | --- | --- |
 | `64070002` | กฤษณธินันต์ ไชยบูรณพินิจ | CODE, VIDEO, DOCUMENTATION |
 | `64070022` | ชุติภูมิ โลกสถาพร | CODE, VIDEO, DOCUMENTATION |
-| `64070061` | ชุติภูมิ โลกสถาพร | CODE, VIDEO, POSTER, GITHUB |
+| `64070061` | ปฏิภาณ เกตุผดุง | CODE, VIDEO, POSTER, GITHUB |
 
 
