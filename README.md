@@ -32,7 +32,7 @@
 
 ## วิดีโอนำเสนอ
 
-[บทคัตย่อ](https://docs.google.com/document/d/1ZybTRIwNNhV9c_nYjFMIIs61fzhql3O3CjxIJEISm0Q/edit)
+[Taparb Bin Project Compro Video Presentation](https://www.youtube.com/watch?v=YPvwAMZBg9w)
 
 ## โปสเตอร์
 ![Poster](https://cdn.discordapp.com/attachments/674238590741512222/973324368061022248/Poster_Com-programing_1.png)
