@@ -37,4 +37,12 @@
 ## โปสเตอร์
 ![Poster](https://cdn.discordapp.com/attachments/674238590741512222/973324368061022248/Poster_Com-programing_1.png)
 
+## สมาชิกภายในโปรเจคต์
+
+| รหัสนักศึกษา | ชื่อ-นามสกุล | หน้าที่ |
+| --- | --- |
+| 64070002 | กฤษณธินันต์ ไชยบูรณพินิจ | CODE, VIDEO, DOCUMENTATION |
+| 64070022 | ชุติภูมิ โลกสถาพร | CODE, VIDEO, DOCUMENTATION |
+| 64070061 | ชุติภูมิ โลกสถาพร | CODE, VIDEO, POSTER, GITHUB |
+
 
